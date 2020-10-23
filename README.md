@@ -1,6 +1,6 @@
 # USJobMarketAnalysis
 Project Title: Data Science and Software Engineering US Job Market Analysis
-2. Motivation
+Objectives and Motivation of Analysis
 - Job market analysis is always the hot topic that job seekers want to know. Especially,
 since the COVID-19 hits the globe, searching for a job is becoming harder and more
 challenging for everyone. As the job seeker in data science and software engineering
@@ -11,7 +11,8 @@ recent job market now and also match their profile with the suitable jobs to sav
 • Which the popular states that are hiring?
 • What’s the inferences about salaries?
 • What are the industries with most data science jobs related?
-3. Data
+
+Data
 - Job Profile: I scrape the Glassdoor website using beautifulsoup
 - H1B sponsors: using REST API to get the number of H1B files of each company on
 h1bgrader.com
